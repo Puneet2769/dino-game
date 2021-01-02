@@ -1,0 +1,9 @@
+first go to chrome
+type chrome://dino/
+right click on dino 
+and click inspect
+go to console and
+type Runner.instance_.gameOver = () => {}
+press enter
+and close the terminal
+just play the game
